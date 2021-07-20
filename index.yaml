@@ -3,7 +3,7 @@ entries:
   nginxdemo:
   - apiVersion: v2
     appVersion: v1
-    created: "2021-07-20T18:07:20.148124+05:30"
+    created: "2021-07-20T18:13:07.417654+05:30"
     description: A Helm chart for Kubernetes
     digest: 1fc2dc1d3cec96f68bbded3e3e3ac94bdcd3b32e59909514dc629b840b6eacf8
     name: nginxdemo
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://rajneeshsharma76.github.io/demohelm/nginxdemo-0.1.0.tgz
     version: 0.1.0
-generated: "2021-07-20T18:07:20.147229+05:30"
+generated: "2021-07-20T18:13:07.416656+05:30"
